@@ -3,11 +3,11 @@ START=90
 
 run_udp()
 {
-        local server
+	local server
 	local serverport
-        local client
-        local clientport
-        local password
+	local client
+	local clientport
+	local password
 	local fec
 	local timeout
         
